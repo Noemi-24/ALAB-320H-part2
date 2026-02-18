@@ -1,0 +1,10 @@
+.navigation{
+    list-style-type: none;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.navigation li a{
+    color: lightgray;
+    font-size: 1.3rem;
+}
