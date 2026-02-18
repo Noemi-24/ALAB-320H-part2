@@ -3,7 +3,7 @@ import Header from './components/Header.jsx'
 import Nav from './components/Nav.jsx'
 import Article from './components/Article.jsx'
 import articles from './data/articles.js' 
-// import Footer from './components/Footer.jsx'
+import Footer from './components/Footer.jsx'
 
 function App() {
   return(
@@ -20,7 +20,7 @@ function App() {
       </main>
 
       <footer>
-        {/* <Footer/> */}
+        <Footer/>
       </footer>
     </>
   );
