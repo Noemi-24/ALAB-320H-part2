@@ -1,16 +1,73 @@
-# React + Vite
+# Sartre's List - Better-Dressed People
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fashion blog built first in plain HTML & CSS, then rebuilt as a React application.
 
-Currently, two official plugins are available:
+## 🔗 Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# [Netlify Live Link](https://react-fashion-blog-alab320.netlify.app/)
+# [GitHub Pages Live Link](https://noemi-24.github.io/ALAB-320H.2.1-part-1/)
+# [GitHub Link of HTML Version](https://github.com/Noemi-24/ALAB-320H.2.1-part-1.git)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📋 Description
 
-## Expanding the ESLint configuration
+A fashion blog that displays articles with images, styled with CSS and built with reusable React components. The project was first built in plain HTML & CSS, then remade in React to practice component-based architecture.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Objectives
+
+- Build a multi-section webpage using semantic HTML
+- Style the page with CSS including drop caps, navigation, and responsive layout
+- Rebuild the site in React using reusable components
+- Deploy an HTML site on GitHub Pages and a React site on Netlify
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- CSS
+- HTML
+- GitHub Pages (HTML version)
+- Netlify (React version)
+
+---
+
+## 📚 What I Learned
+
+- How to structure a React project with components, data, and assets folders
+- How to pass data as props to reusable components
+- How to use semantic HTML tags like `<header>`, `<main>`, `<article>`, and `<footer>`
+- How to import and manage images in Vite
+- How to deploy a React app to Netlify
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Noemi-24/ALAB-320H-part2.git
+   ```
+2. Navigate into the project folder
+   ```bash
+   cd your-repo
+   ```
+3. Install dependencies
+   ```bash
+   npm install
+   ```
+4. Start the development server
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 👩‍💻 Author
+
+**Noemi Delgadillo Roldan**
+[GitHub](https://github.com/noemi-24)
