@@ -1,10 +1,23 @@
 import './App.css'
+import Header from './components/Header.jsx'
 
 function App() {
   return(
-    <div>
+    <>
+      <header>
+        <Header/>
+        {/* <Nav/> */}
+      </header>
 
-    </div>
+      <main>
+        {/* <Article/>
+        <Article/> */}
+      </main>
+
+      <footer>
+        {/* <Footer/> */}
+      </footer>
+    </>
   );
 }
 
